@@ -1,0 +1,12 @@
+.nyc_output
+.chglog
+.reuse
+.nycrc
+.vscode
+src
+coverage
+node_modules
+test
+tsconfig.json
+dist/resources
+**/*.map
